@@ -66,23 +66,6 @@ Or use your IDE’s Run/Debug to pick a device.
 4. If all nine cells are filled with no winner, the game is a draw.
 5. After a win or draw, the game resets automatically after 2 seconds.
 
-## Project Structure
-
-```
-tic_tac_toe/
-├── lib/
-│   └── main.dart      # App entry point and game logic
-├── test/
-│   └── widget_test.dart
-├── android/           # Android platform files
-├── macos/             # macOS platform files
-├── web/               # Web platform files
-├── windows/           # Windows platform files
-├── linux/             # Linux platform files
-├── macos/             # macOS platform files
-└── pubspec.yaml       # Dependencies and project config
-```
-
 ## Tech Stack
 
 - **Framework:** Flutter
